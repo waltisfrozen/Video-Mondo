@@ -14,7 +14,7 @@
     {"name":"Thriller", "search_terms":"collection:feature_films+AND+subject:thriller"},
     {"name":"War", "search_terms":"collection:feature_films+AND+subject:War"},
     {"name":"Charlie Chaplin", "search_terms":"collection:feature_films+AND+subject:chaplin"},
-    {"name":"Buster Keaton", "search_terms":"collection:feature_films+AND+subject:buster+keaton"},
+    {"name":"Buster Keaton", "search_terms":"collection:feature_films+AND+subject:(buster+keaton)"},
     {"name":"Film-Noir", "search_terms":"collection:Film_Noir"}
 ]}
 
