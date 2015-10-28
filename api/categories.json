@@ -1,20 +1,20 @@
   {"categories":[
     {"name":"Feature Films", "search_terms":""},
-    {"name":"Drama", "search_terms":"collection:feature_films+AND+subject:drama"},
-    {"name":"Western", "search_terms":"collection:feature_films+AND+subject:western"},
-    {"name":"Comedy", "search_terms":"collection:Comedy_Films"},
-    {"name":"Romance", "search_terms":"collection:feature_films+AND+subject:romance"},
-    {"name":"Mystery", "search_terms":"collection:feature_films+AND+subject:mystery"},
-    {"name":"Crime", "search_terms":"collection:feature_films+AND+subject:crime"},
-    {"name":"Silent", "search_terms":"collection:silenthalloffame"},
     {"name":"Action / Adventure", "search_terms":"collection:feature_films+AND+subject:(action+OR+adventure)"},
+    {"name":"Comedy", "search_terms":"collection:Comedy_Films"},
+    {"name":"Crime", "search_terms":"collection:feature_films+AND+subject:crime"},
+    {"name":"Drama", "search_terms":"collection:feature_films+AND+subject:drama"},
     {"name":"Martial Arts", "search_terms":"collection:feature_films+AND+subject:(martial+arts+OR+kung+fu+OR+karate)"},
-    {"name":"Sci-Fi / Horror", "search_terms":"collection:SciFi_Horror"},
     {"name":"Musical", "search_terms":"collection:feature_films+AND+subject:musical"},
+    {"name":"Mystery", "search_terms":"collection:feature_films+AND+subject:mystery"},
+    {"name":"Noir", "search_terms":"collection:Film_Noir"}
+    {"name":"Romance", "search_terms":"collection:feature_films+AND+subject:romance"},
+    {"name":"Sci-Fi / Horror", "search_terms":"collection:SciFi_Horror"},
+    {"name":"Silent", "search_terms":"collection:silenthalloffame"},
     {"name":"Thriller", "search_terms":"collection:feature_films+AND+subject:thriller"},
     {"name":"War", "search_terms":"collection:feature_films+AND+subject:War"},
+    {"name":"Western", "search_terms":"collection:feature_films+AND+subject:western"},
     {"name":"Charlie Chaplin", "search_terms":"collection:feature_films+AND+subject:chaplin"},
-    {"name":"Buster Keaton", "search_terms":"collection:feature_films+AND+subject:(buster+keaton)"},
-    {"name":"Film-Noir", "search_terms":"collection:Film_Noir"}
+    {"name":"Buster Keaton", "search_terms":"collection:feature_films+AND+subject:(buster+keaton)"}
 ]}
 
