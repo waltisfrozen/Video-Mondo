@@ -7,7 +7,7 @@
     {"name":"Martial Arts", "search_terms":"collection:feature_films+AND+subject:(martial+arts+OR+kung+fu+OR+karate)"},
     {"name":"Musical", "search_terms":"collection:feature_films+AND+subject:musical"},
     {"name":"Mystery", "search_terms":"collection:feature_films+AND+subject:mystery"},
-    {"name":"Noir", "search_terms":"collection:Film_Noir"}
+    {"name":"Noir", "search_terms":"collection:Film_Noir"},
     {"name":"Romance", "search_terms":"collection:feature_films+AND+subject:romance"},
     {"name":"Sci-Fi / Horror", "search_terms":"collection:SciFi_Horror"},
     {"name":"Silent", "search_terms":"collection:silenthalloffame"},
