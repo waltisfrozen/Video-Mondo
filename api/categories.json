@@ -17,6 +17,6 @@
     {"name":"Charlie Chaplin", "search_terms":"collection:feature_films+AND+subject:chaplin"},
     {"name":"Buster Keaton", "search_terms":"collection:feature_films+AND+subject:(buster+keaton)"},
     {"name":"Ephemera", "search_terms":""},
-    {"name":"Driver's Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(driving+OR+drivers)"}
+    {"name":"Driver's Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(driver+OR+drive+OR+driving+OR+drivers+OR+Safety%3A+Automotive)"}
 ]}
 
