@@ -1,6 +1,7 @@
 {"categories": [
-    {"url": "https://waltisfrozen.github.io/Video-Mondo/api/bmovies.json"},
-    {"url": "https://waltisfrozen.github.io/Video-Mondo/api/kaiju.json"},
-    {"url": "https://waltisfrozen.github.io/Video-Mondo/api/psychotronic.json"},
-    {"url": "https://waltisfrozen.github.io/Video-Mondo/api/dracula.json"}
+    {"name": "So Bad It's Good", "url": "https://waltisfrozen.github.io/Video-Mondo/api/bmovies.json"},
+    {"name": "Kaiju Attack!", "url": "https://waltisfrozen.github.io/Video-Mondo/api/kaiju.json"},
+    {"name": "Psychotronic Weirdness", "url": "https://waltisfrozen.github.io/Video-Mondo/api/psychotronic.json"},
+    {"name": "Dracula meets Frankenstein", "url": "https://waltisfrozen.github.io/Video-Mondo/api/dracula.json"}
 ]}
+
