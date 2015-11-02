@@ -2,6 +2,7 @@
     {"name": "So Bad It's Good", "url": "https://waltisfrozen.github.io/Video-Mondo/api/bmovies.json"},
     {"name": "Fleischer's Superman", "url": "https://waltisfrozen.github.io/Video-Mondo/api/superman.json"},
     {"name": "Kaiju Attack!", "url": "https://waltisfrozen.github.io/Video-Mondo/api/kaiju.json"},
+    {"name": "Alfred Hitchcock", "url": "https://waltisfrozen.github.io/Video-Mondo/api/hitchcock.json"}, 
     {"name": "Psychotronic Weirdness", "url": "https://waltisfrozen.github.io/Video-Mondo/api/psychotronic.json"},
     {"name": "Dracula meets Frankenstein", "url": "https://waltisfrozen.github.io/Video-Mondo/api/dracula.json"}
 ]}
