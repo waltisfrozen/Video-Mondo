@@ -1,0 +1,23 @@
+{"response":
+  {"docs":[
+    {"identifier":"superman_1941",
+     "title":"Superman"},
+    {"identifier":"superman_the_mechanical_monsters",
+     "title":"The Mechanical Monsters"},
+    {"identifier":"billion_dollar_limited",
+     "title":"Billion Dollar Limited"},
+    {"identifier":"arctic_giant",
+     "title":"The Arctic Giant"},
+    {"identifier":"bulleteers",
+     "title":"The Bulleteers"},
+    {"identifier":"magnetic_telescope",
+     "title":"The Magnetic Telescope"},
+    {"identifier":"superman_electric_earthquake",
+     "title":"Electric Earthquake"},
+    {"identifier":"superman_volcano",
+     "title":"Volcano"},
+    {"identifier":"superman_terror_on_the_midway",
+     "title":"Terror on the Midway"}]},
+  "categoryTitle": "Fleischer's Superman"
+}
+
