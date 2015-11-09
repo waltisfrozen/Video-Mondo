@@ -1,4 +1,5 @@
 {"categories": [
+    {"name": "Friends Don't Let Friends Do Drugs", "url": "https://waltisfrozen.github.io/Video-Mondo/api/drugs.json"},
     {"name": "So Bad It's Good", "url": "https://waltisfrozen.github.io/Video-Mondo/api/bmovies.json"},
     {"name": "Fleischer's Superman", "url": "https://waltisfrozen.github.io/Video-Mondo/api/superman.json"},
     {"name": "Kaiju Attack!", "url": "https://waltisfrozen.github.io/Video-Mondo/api/kaiju.json"},
