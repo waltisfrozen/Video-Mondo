@@ -1,6 +1,6 @@
   {"categories":[
     {"name":"Ephemera", "search_terms":""},
-    {"name":"Automobiles", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Automobiles%3A+Advertising)"},
+    {"name":"Automobiles", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Automobiles:+Advertising)"},
     {"name":"Cold War", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Cold+War)"},
     {"name":"Commercials", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Commercials)"},
     {"name":"Consumerism", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Consumerism)"},
