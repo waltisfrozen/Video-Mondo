@@ -1,7 +1,7 @@
   {"categories":[
     {"name":"Ephemera", "search_terms":""},
-    {"name":"Automobiles: Advertising", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Automobiles%3A%20Advertising)"},
-    {"name":"Cold War", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Cold%20War)"},
+    {"name":"Automobiles", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Automobiles%3A%20Advertising)"},
+    {"name":"Cold War", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Cold+War)"},
     {"name":"Commercials", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Commercials)"},
     {"name":"Consumerism", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Consumerism)"},
     {"name":"Driver's Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(driver+OR+drive+OR+driving+OR+drivers+OR+Safety%3A+Automotive)"},
