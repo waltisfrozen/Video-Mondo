@@ -32,9 +32,18 @@
     {"name":"Western", "search_terms":"collection:feature_films+AND+subject:western"},
     {"name":"Charlie Chaplin", "search_terms":"collection:feature_films+AND+subject:chaplin"},
     {"name":"Buster Keaton", "search_terms":"collection:feature_films+AND+subject:(buster+keaton)"},
-    {"name":"Ephemera", "search_terms":""},
-    {"name":"Driver's Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(driver+OR+drive+OR+driving+OR+drivers+OR+Safety%3A+Automotive)"},
-    {"name":"Sex Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Sex%20education+OR+gender)"}
-
+    {"name":"Classic TV", "search_terms":""},
+    {"name":"Beverly Hillbillies", "search_terms":"collection:(classic_tv)+AND+subject:(Beverly+Hillbillies)"},
+    {"name":"Dragnet", "search_terms":"collection:(classic_tv)+AND+subject:(Dragnet)"},
+    {"name":"Groucho Marx", "search_terms":"collection:(classic_tv)+AND+subject:(Groucho+Marx)"},
+    {"name":"Jack Benny", "search_terms":"collection:(classic_tv)+AND+subject:(Jack+Benny)"},
+    {"name":"The Lucy Show", "search_terms":"collection:(classic_tv)+AND+subject:(The+Lucy+Show)"},
+    {"name":"One Step Beyond", "search_terms":"collection:(classic_tv)+AND+subject:(One+Step+Beyond)"},
+    {"name":"Ozzie & Harriet", "search_terms":"collection:(classic_tv)+AND+subject:(Ozzie+Harriet)"},
+    {"name":"Sherlock Holmes", "search_terms":"collection:(classic_tv)+AND+subject:(Sherlock+Holmes)"},
+    {"name":"Tales of Tomorrow", "search_terms":"collection:(classic_tv)+AND+subject:(Tales+of+Tomorrow)"},
+    {"name":"Anthology Series", "search_terms":"collection:(classic_tv)+AND+subject:(Anthology+Series)"},
+    {"name":"Misc Horror", "search_terms":"collection:(classic_tv)+AND+subject:(Horror)"},
+    {"name":"Misc Western", "search_terms":"collection:(classic_tv)+AND+subject:(Western)"}
 ]}
 
