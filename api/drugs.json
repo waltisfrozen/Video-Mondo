@@ -1,25 +1,26 @@
 {"response":
   {"docs":[
+    {"identifier":"Marijuana_1968",
+     "title":"Marijuana"},
+    {"identifier":"Terrible1951",
+     "title":"The Terrible Truth"},
+    {"identifier":"DistantD1972",
+     "title":"Distant Drummer: Flowers of Darkness"},
+
     {"identifier":"WereNoDummies",
      "title":"We're No Dummies! We Don't take Drugs"},
     {"identifier":"keep_off_the_grass",
      "title":"Keep Off The Grass"},
     {"identifier":"drugs_are_like_that",
      "title":"Drugs Are Like That"},
-    {"identifier":"Terrible1951",
-     "title":"The Terrible Truth"},
     {"identifier":"DrugAbus1969",
      "title":"Drug Abuse: The Chemical Tomb"},
     {"identifier":"Narcotic1967",
      "title":"Narcotics: Pit of Despair (Part I)"},
     {"identifier":"Narcotic1967_2",
      "title":"Narcotics: Pit of Despair (Part II)"},
-    {"identifier":"DistantD1972",
-     "title":"Distant Drummer: Flowers of Darkness"},
     {"identifier":"DrugAddi1951",
-     "title":"Drug Addiction"},
-    {"identifier":"Marijuana_1968",
-     "title":"Marijuana"}
+     "title":"Drug Addiction"}
 ]},
   "categoryTitle": "Friends Don't Let Friends Do Drugs"
 }
