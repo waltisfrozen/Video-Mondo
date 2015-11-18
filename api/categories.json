@@ -44,6 +44,15 @@
     {"name":"Tales of Tomorrow", "search_terms":"collection:(classic_tv)+AND+subject:(Tales+of+Tomorrow)"},
     {"name":"Anthology Series", "search_terms":"collection:(classic_tv)+AND+subject:(Anthology+Series)"},
     {"name":"Misc Horror", "search_terms":"collection:(classic_tv)+AND+subject:(Horror)"},
-    {"name":"Misc Western", "search_terms":"collection:(classic_tv)+AND+subject:(Western)"}
+    {"name":"Misc Western", "search_terms":"collection:(classic_tv)+AND+subject:(Western)"},
+    {"name":"Cartoons", "search_terms":""},
+    {"name":"Betty Boop", "search_terms":"collection:(classic_cartoons+OR+more_animation)+AND+subject:(Betty+Boop)"},
+    {"name":"Colonel Bleep", "search_terms":"collection:(classic_cartoons+OR+more_animation)+AND+subject:(Colonel+Bleep)"},
+    {"name":"Felix the Cat", "search_terms":"collection:(classic_cartoons+OR+more_animation)+AND+subject:(felix)"},
+    {"name":"Popeye", "search_terms":"collection:(classic_cartoons+OR+more_animation)+AND+subject:(Popeye)"},
+    {"name":"Superman", "search_terms":"collection:(classic_cartoons+OR+more_animation)+AND+subject:(Superman)"},
+    {"name":"Fleischer Studios", "search_terms":"collection:(classic_cartoons+OR+more_animation)+AND+subject:(Fleischer)"},
+    {"name":"Harman & Ising", "search_terms":"collection:(classic_cartoons+OR+more_animation)+AND+subject:(Rudolf+Ising)"},
+    {"name":"Van Beuren Studios", "search_terms":"collection:(classic_cartoons+OR+more_animation)+AND+subject:(Van+Beuren)"}
 ]}
 
