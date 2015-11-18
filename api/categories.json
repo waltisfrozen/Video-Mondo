@@ -3,7 +3,7 @@
     {"name":"Automobiles", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Automobiles)"},
     {"name":"Cold War", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Cold+War)"},
     {"name":"Commercials", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Commercials)"},
-    {"name":"Consumerism", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Consumerism)"},
+    {"name":"Consumerism", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Consumerism+NOT+Commercials)"},
     {"name":"Driver's Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(driver+OR+drive+OR+driving+OR+drivers+OR+Safety%3A+Automotive)"},
     {"name":"Drive-In Ads", "search_terms":"collection:(DriveInMovieAds)"},
     {"name":"Gender Roles", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Gender+roles)"},
