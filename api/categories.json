@@ -4,7 +4,7 @@
     {"name":"Cold War", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+(subject:(Cold+War)+OR+title:(Cold+War)+OR+description:(Cold+War))"},
     {"name":"Commercials", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+(subject:(Commercials)+OR+title:(Commercials)+OR+description:(Commercials))"},
     {"name":"Consumerism", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+(subject:(Consumerism+NOT+Commercials)+OR+title:(Consumerism+NOT+Commercials)+OR+description:(Consumerism+NOT+Commercials))"},
-    {"name":"Driver's Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+(subject:(driver+OR+drive+OR+driving+OR+drivers+OR+Safety%3A+Automotive)+OR+title:(driver+OR+drive+OR+driving+OR+drivers+OR+Safety%3A+Automotive)+OR+description:(driver+OR+drive+OR+driving+OR+drivers+OR+Safety%3A+Automotive))"},
+    {"name":"Driver's Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+(subject:(driver+OR+drive+OR+driving+OR+drivers)+OR+title:(driver+OR+drive+OR+driving+OR+drivers)+OR+description:(driver+OR+drive+OR+driving+OR+drivers))"},
     {"name":"Drive-In Ads", "search_terms":"collection:(DriveInMovieAds)"},
     {"name":"Gender Roles", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Gender+roles)"},
     {"name":"Health and Hygiene", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Health+and+Hygiene)"},
