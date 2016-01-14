@@ -1,10 +1,10 @@
 {"categories": [
+    {"name": "MST3K's Favorite Shorts, Part One", "url": "https://waltisfrozen.github.io/Video-Mondo/api/mst3k-shorts-1.json"},
     {"name": "B-Movie Masterpieces", "url": "https://waltisfrozen.github.io/Video-Mondo/api/bmovies.json"},
     {"name": "How To Be Popular", "url": "https://waltisfrozen.github.io/Video-Mondo/api/popular.json"},
     {"name": "Psychotronic Weirdness", "url": "https://waltisfrozen.github.io/Video-Mondo/api/psychotronic.json"},
     {"name": "Fleischer's Superman", "url": "https://waltisfrozen.github.io/Video-Mondo/api/superman.json"},
     {"name": "Friends Don't Let Friends Do Drugs", "url": "https://waltisfrozen.github.io/Video-Mondo/api/drugs.json"},
-    {"name": "Kaiju Attack!", "url": "https://waltisfrozen.github.io/Video-Mondo/api/kaiju.json"},
-    {"name": "Alfred Hitchcock", "url": "https://waltisfrozen.github.io/Video-Mondo/api/hitchcock.json"}
+    {"name": "Kaiju Attack!", "url": "https://waltisfrozen.github.io/Video-Mondo/api/kaiju.json"}
 ]}
 
