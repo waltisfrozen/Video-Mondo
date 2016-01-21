@@ -1,7 +1,15 @@
 {"response":
   {"docs":[
-    {"identifier":"shame_",
-     "title":"Shame"},
+      {"identifier":"ABucketOfBlood1959",
+     "title":"A Bucket of Blood"},
+    {"identifier":"The.Little.Shop.of.Horrors.60",
+     "title":"The Little Shop of Horrors"},
+    {"identifier":"The_Wasp_Women",
+     "title":"The Wasp Woman"},
+    {"identifier":"PhantasmagoriaTheater-AttackOfTheCrabMonsters1957848",
+     "title":"Attack of the Crab Monsters"},
+    {"identifier":"VoyagetothePrehistoricPlanet",
+     "title":"Voyage to the Prehistoric Planet"},
     {"identifier":"last_woman_on_earth",
      "title":"Last Woman on Earth"},
     {"identifier":"CreatureFromTheHauntedSea",
@@ -10,20 +18,12 @@
      "title":"Ski Troop Attack"},
     {"identifier":"TheTerror",
      "title":"The Terror"},
-    {"identifier":"The.Little.Shop.of.Horrors.60",
-     "title":"The Little Shop of Horrors"},
     {"identifier":"RC_SwampWomen",
      "title":"Swamp Women"},
-    {"identifier":"The_Wasp_Women",
-     "title":"The Wasp Woman"},
     {"identifier":"she_gods_of_shark_reef",
      "title":"She Gods of Shark Reef"},
-    {"identifier":"ABucketOfBlood1959",
-     "title":"A Bucket of Blood"},
-    {"identifier":"PhantasmagoriaTheater-AttackOfTheCrabMonsters1957848",
-     "title":"Attack of the Crab Monsters"},
-    {"identifier":"VoyagetothePrehistoricPlanet",
-     "title":"Voyage to the Prehistoric Planet"}
+    {"identifier":"shame_",
+     "title":"Shame"}
 ]},
   "categoryTitle": "Roger Corman, The King of B-Movies"
 }
