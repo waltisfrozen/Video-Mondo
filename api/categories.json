@@ -7,7 +7,7 @@
     {"name":"Driver's Ed", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+(subject:(driver+OR+drive+OR+driving+OR+drivers)+OR+title:(driver+OR+drive+OR+driving+OR+drivers)+OR+description:(driver+OR+drive+OR+driving+OR+drivers))"},
     {"name":"Drive-In Ads", "search_terms":"collection:(DriveInMovieAds)"},
     {"name":"Gender Roles", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Gender+roles)"},
-    {"name":"Health and Hygiene", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Health+and+Hygiene)"},
+    {"name":"Health & Hygiene", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Health+and+Hygiene)"},
     {"name":"Patriotism", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Patriotism)"},
     {"name":"Psychology", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Psychology)"},
     {"name":"Safety", "search_terms":"collection:(prelinger+OR+avgeeks)+AND+subject:(Safety)"},
