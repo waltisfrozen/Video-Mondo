@@ -1,16 +1,24 @@
 {
     "docs": [
         {
-            "identifier": "ShakeHan1970",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/shakehands.jpg"
-        },
-         {
             "identifier": "vd_attack_plan",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/vdattackplan.jpg"
         },
-        {
+         {
             "identifier": "YourName1960",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/yournamehere.jpg"
+        },
+        {
+            "identifier": "TheGoat",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/busterkeaton-goat.jpg"
+        },
+        {
+            "identifier": "HouseOnHauntedHillWidescreenVideoUpgrade",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/hauntedhill.jpg"
+        },
+        {
+            "identifier": "Destinat1956",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/destinationearth.jpg"
         },
         {
             "identifier": "mclintok_widescreen",
@@ -19,14 +27,6 @@
         {
             "identifier": "0992_Bottle_and_the_Throttle_The_E00776_01_50_27_08",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/bottlethrottle.jpg"
-        },
-        {
-            "identifier": "rock_rock_rock",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/rockrockrock.jpg"
-        },
-        {
-            "identifier": "Sita_Sings_the_Blues",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/sitasingstheblues.jpg"
         }
     ],
     "categoryTitle": "home screen banners"
