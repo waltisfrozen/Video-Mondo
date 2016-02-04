@@ -1,11 +1,11 @@
 {"categories": [
+    {"name": "MST3K's Favorite Shorts, Part Two", "url": "https://waltisfrozen.github.io/Video-Mondo/api/mst3k-shorts-2.json"},
     {"name": "Westinghouse Studio One", "url": "https://waltisfrozen.github.io/Video-Mondo/api/studio-one.json"},
     {"name": "Roger Corman, The King of B-Movies", "url": "https://waltisfrozen.github.io/Video-Mondo/api/corman.json"},
-    {"name": "MST3K's Favorite Shorts, Part One", "url": "https://waltisfrozen.github.io/Video-Mondo/api/mst3k-shorts-1.json"},
     {"name": "B-Movie Masterpieces", "url": "https://waltisfrozen.github.io/Video-Mondo/api/bmovies.json"},
+    {"name": "MST3K's Favorite Shorts, Part One", "url": "https://waltisfrozen.github.io/Video-Mondo/api/mst3k-shorts-1.json"},
     {"name": "How To Be Popular", "url": "https://waltisfrozen.github.io/Video-Mondo/api/popular.json"},
-    {"name": "Psychotronic Weirdness", "url": "https://waltisfrozen.github.io/Video-Mondo/api/psychotronic.json"},
-    {"name": "Fleischer's Superman", "url": "https://waltisfrozen.github.io/Video-Mondo/api/superman.json"},
-    {"name": "Kaiju Attack!", "url": "https://waltisfrozen.github.io/Video-Mondo/api/kaiju.json"}
+    {"name": "Kaiju Attack!", "url": "https://waltisfrozen.github.io/Video-Mondo/api/kaiju.json"},
+    {"name": "Fleischer's Superman", "url": "https://waltisfrozen.github.io/Video-Mondo/api/superman.json"}
 ]}
 
