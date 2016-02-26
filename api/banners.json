@@ -1,10 +1,6 @@
 {
     "docs": [
         {
-            "identifier": "TheGoat",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/busterkeaton-goat.jpg"
-        },
-        {
             "identifier": "HouseOnHauntedHillWidescreenVideoUpgrade",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/hauntedhill.jpg"
         },
@@ -13,20 +9,24 @@
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/crawlinghand.jpg"
         },
         {
+            "identifier": "TheLostWorldCompleteVideoQualityUpgrade",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/lostworld.jpg"
+        },
+        {
+            "identifier": "TheBeachGirlsAndTheMonster",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/beachgirlsandthemonster.jpg"
+        },
+        {
+            "identifier": "TheAmazingTransparentMan1960",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/transparentman.jpg"
+        },
+        {
             "identifier": "five_minutes_to_live",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/fiveminutestolive.jpg"
         },
         {
             "identifier": "HAROLDLLOYDSWORLDOFCOMEDY1962",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/haroldlloyd.jpg"
-        },
-        {
-            "identifier": "meet_john_doe_ipod",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/meetjohndoe.jpg"
-        },
-        {
-            "identifier": "squeak_the_squirrel",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/squeakthesquirrel.jpg"
         }
     ],
     "categoryTitle": "home screen banners"
