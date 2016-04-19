@@ -1,6 +1,15 @@
 {
     "docs": [
         {
+            "identifier": "HAROLDLLOYDSWORLDOFCOMEDY1962",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/haroldlloyd.jpg"
+        },
+        {
+            "identifier": "The_Boy_In_The_Plastic_Bubble",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/boyintheplasticbubble.jpg"
+        },
+
+        {
             "identifier": "TheCrawlingHand1963_201406",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/crawlinghand.jpg"
         },
@@ -20,7 +29,6 @@
             "identifier": "night_of_the_living_dead",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/nightofthelivingdead.jpg"
         },
-
         {
             "identifier": "TeenagersFromOuterSpace1959",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/teenagersfromouterspace.jpg"
@@ -36,7 +44,20 @@
         {
             "identifier": "five_minutes_to_live",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/fiveminutestolive.jpg"
+        },
+        {
+            "identifier": "DraculaVs.FrankensteinakaAssignmentTerrorPaulNaschy",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/assignment_terror.jpg"
+        },
+        {
+            "identifier": "DuckandC1951",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/duckandcover.jpg"
+        },
+        {
+            "identifier": "reefer_madness1938",
+            "image": "https://waltisfrozen.github.io/Video-Mondo/images/reefermadness.jpg"
         }
+
     ],
     "categoryTitle": "home screen banners"
 }
