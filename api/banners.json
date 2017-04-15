@@ -8,34 +8,9 @@
             "identifier": "The_Boy_In_The_Plastic_Bubble",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/boyintheplasticbubble.jpg"
         },
-         {
-            "identifier": "vd_attack_plan",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/vdattackplan.jpg"
-        },
-        {
-            "identifier": "rock_rock_rock",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/rockrockrock.jpg"
-        },
-        {
-            "identifier": "Sita_Sings_the_Blues",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/sitasingstheblues.jpg"
-        },
         {
             "identifier": "YourName1960",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/yournamehere.jpg"
-        },
-        {
-            "identifier": "mclintok_widescreen",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/mcclintock.jpg"
-        },
-        {
-            "identifier": "0992_Bottle_and_the_Throttle_The_E00776_01_50_27_08",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/bottlethrottle.jpg"
-        },
-
-        {
-            "identifier": "TheCrawlingHand1963_201406",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/crawlinghand.jpg"
         },
         {
             "identifier": "TheBeachGirlsAndTheMonster",
@@ -50,53 +25,17 @@
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/turkishstarwars.jpg"
         },
         {
-            "identifier": "night_of_the_living_dead",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/nightofthelivingdead.jpg"
-        },
-        {
-            "identifier": "TeenagersFromOuterSpace1959",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/teenagersfromouterspace.jpg"
-        },
-        {
-            "identifier": "royal_wedding",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/royalwedding.jpg"
-        },
-        {
-            "identifier": "TheGoat",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/busterkeaton-goat.jpg"
-        },
-        {
             "identifier": "HouseOnHauntedHillWidescreenVideoUpgrade",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/hauntedhill.jpg"
         },
-        {
-            "identifier": "Destinat1956",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/destinationearth.jpg"
-        },
-        {
-            "identifier": "TLS_Lucy_And_Carol_In_Palm_Springs",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/lucyshow.jpg"
-        },
-        {
-            "identifier": "meet_john_doe_ipod",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/meetjohndoe.jpg"
-        },
+
         {
             "identifier": "squeak_the_squirrel",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/squeakthesquirrel.jpg"
         },
-        
         {
             "identifier": "TheAmazingTransparentMan1960",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/transparentman.jpg"
-        },
-        {
-            "identifier": "five_minutes_to_live",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/fiveminutestolive.jpg"
-        },
-        {
-            "identifier": "disorder_in_the_court",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/3stooges-disorder.jpg"
         },
         {
             "identifier": "ShakeHan1970",
@@ -113,12 +52,7 @@
         {
             "identifier": "DuckandC1951",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/duckandcover.jpg"
-        },
-        {
-            "identifier": "reefer_madness1938",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/reefermadness.jpg"
         }
-
     ],
     "categoryTitle": "home screen banners"
 }
