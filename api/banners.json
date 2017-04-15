@@ -1,22 +1,6 @@
 {
     "docs": [
-        {
-            "identifier": "HAROLDLLOYDSWORLDOFCOMEDY1962",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/haroldlloyd.jpg"
-        },
-        {
-            "identifier": "The_Boy_In_The_Plastic_Bubble",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/boyintheplasticbubble.jpg"
-        },
-        {
-            "identifier": "YourName1960",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/yournamehere.jpg"
-        },
-        {
-            "identifier": "TheBeachGirlsAndTheMonster",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/beachgirlsandthemonster.jpg"
-        },
-        {
+         {
             "identifier": "BettyBoopPoorCinderella1934HD",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/bettyboop-poorcinderella.jpg"
         },
@@ -28,7 +12,6 @@
             "identifier": "HouseOnHauntedHillWidescreenVideoUpgrade",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/hauntedhill.jpg"
         },
-
         {
             "identifier": "squeak_the_squirrel",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/squeakthesquirrel.jpg"
@@ -40,18 +23,6 @@
         {
             "identifier": "ShakeHan1970",
             "image": "https://waltisfrozen.github.io/Video-Mondo/images/shakehands.jpg"
-        },
-        {
-            "identifier": "HisGirlFriday-1940",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/hisgirlfriday.jpg"
-        },      
-        {
-            "identifier": "DraculaVs.FrankensteinakaAssignmentTerrorPaulNaschy",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/assignment_terror.jpg"
-        },
-        {
-            "identifier": "DuckandC1951",
-            "image": "https://waltisfrozen.github.io/Video-Mondo/images/duckandcover.jpg"
         }
     ],
     "categoryTitle": "home screen banners"
